@@ -22,12 +22,12 @@ git log
 git commit -m "first commit"
 
 # Push the repository to GitHub
-git remote add origin https://github.com/ihechikara/git-and-github-tutorial.git
+git remote add origin "".git
 git branch -M main
 git push -u origin main
 
 # uses of push command
-the first command git remote add origin https://github.com/ihechikara/git-and-github-tutorial.git creates a connection between your local repo and the remote repo on Github.
+the first command git remote add origin "".git creates a connection between your local repo and the remote repo on Github.
 
 The second command git branch -M main changes your main branch's name to "main". The default branch might be created as "master", but "main" is the standard name for this repo now. 
 
