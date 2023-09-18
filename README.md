@@ -58,4 +58,9 @@ NOTE: The change from one branch to another of the code is reflect in visual cod
 If we use pull if any changes are not can't change then error like merge conflict will come to recover from this we usee merge 
 <img width="960" alt="image" src="https://github.com/Gunasekaran-143/Git-Github/assets/134137559/f826e5ee-5d9c-40fa-8cab-4b2a218ba3cc">
 
+# So finally I learned from this series is:
 
+git clone, git commit , git push and git pull , git log and git status , git branch and git checkout " " (from one branch to another) , Git merge <br>
+#for creating new branch ((git checkout -b "new-Branch"))
+
+That's it
