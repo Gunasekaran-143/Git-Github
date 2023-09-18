@@ -1,7 +1,9 @@
 # Git-Github
 <! --Currently Learning about git and github integration with visualcode-->
 
-# git clone 
+# git clone https://github.com/Gunasekaran-143/Git-Github.git
+<img width="447" alt="Screenshot 2023-09-18 225015" src="https://github.com/Gunasekaran-143/Git-Github/assets/134137559/5f4819f7-d9fc-40a1-875b-7a54087065e1">
+
 
 # To set your username, type and execute these commands: 
 git config --global user.name "YOUR_USERNAME"   and
